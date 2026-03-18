@@ -46,7 +46,7 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursudario.10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursudario10&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -78,7 +78,7 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 ---
 
 ## 📫 Contato
-📧 arthursudario.10@email.com  
+📧 Email: arthursudario.10@email.com  
 🔗 LinkedIn: https://www.linkedin.com/feed/
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
