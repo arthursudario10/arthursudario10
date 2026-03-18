@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Jefferson+Savidotti&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Arthur+Reis&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 # 👋 Olá, eu sou Arthur Reis
 
 🎓 Estudante do 2º ano do Ensino Médio  
@@ -83,6 +83,3 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
 
----
-
-⭐ *Sempre buscando aprender algo novo!*
