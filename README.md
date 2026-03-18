@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Jefferson+Savidotti&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 # 👋 Olá, eu sou Arthur Reis
 
 🎓 Estudante do 2º ano do Ensino Médio  
@@ -45,7 +46,7 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursudario10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursudario.10&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -78,15 +79,10 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 ## 📫 Contato
 📧 arthursudario.10@email.com  
-🔗 https://www.linkedin.com/feed/
+🔗 LinkedIn: https://www.linkedin.com/feed/
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
 
 ---
 
+⭐ *Sempre buscando aprender algo novo!*
