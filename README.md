@@ -80,6 +80,13 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 📧 arthursudario.10@email.com  
 🔗 https://www.linkedin.com/feed/
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 
-⭐ *Sempre buscando aprender algo novo!*
