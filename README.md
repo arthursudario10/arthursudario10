@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Arthur Reis
 
 🎓 Estudante do 2º ano do Ensino Médio  
 💻 Desenvolvimento de Sistemas - SENAI-SP  
@@ -45,9 +45,7 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursudario10&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -79,8 +77,8 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 ---
 
 ## 📫 Contato
-📧 seu-email@email.com  
-🔗 LinkedIn (opcional)
+📧 arthursudario.10@email.com  
+🔗 https://www.linkedin.com/feed/
 
 ---
 
