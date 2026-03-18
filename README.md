@@ -79,7 +79,7 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 ## 📫 Contato
 📧 Email: arthursudario.10@email.com  
-🔗 LinkedIn: https://www.linkedin.com/feed/
+🔗 LinkedIn: https://www.linkedin.com/in/arthur-reis-731b1a3b0/
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
 
