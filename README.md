@@ -38,6 +38,10 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 ## 🏅 Certificações
 ![Cisco](https://img.shields.io/badge/Cisco-Certificado-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Básico-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SENAI](https://img.shields.io/badge/SENAI-Segurança_do_Trabalho-CC0000?style=for-the-badge&logo=google-classroom&logoColor=white)
+![SENAI](https://img.shields.io/badge/SENAI-Fundamentos_da_IA-CC0000?style=for-the-badge&logo=openai&logoColor=white)
+![SENAI](https://img.shields.io/badge/SENAI-Economia_Circular-CC0000?style=for-the-badge&logo=recycle&logoColor=white)
+![SENAI](https://img.shields.io/badge/SENAI-Ética_na_IA-CC0000?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
 
