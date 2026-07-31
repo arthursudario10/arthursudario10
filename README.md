@@ -17,15 +17,22 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 ## 📊 Conhecimentos & Tech
 
 ### 👨‍💻 Linguagens
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+
 
 ---
 
 ### 🖥️ Sistemas & Ferramentas
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
@@ -42,6 +49,9 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 ![SENAI](https://img.shields.io/badge/SENAI-Fundamentos_da_IA-CC0000?style=for-the-badge&logo=openai&logoColor=white)
 ![SENAI](https://img.shields.io/badge/SENAI-Economia_Circular-CC0000?style=for-the-badge&logo=recycle&logoColor=white)
 ![SENAI](https://img.shields.io/badge/SENAI-Ética_na_IA-CC0000?style=for-the-badge&logo=bookstack&logoColor=white)
+![SENAI](https://img.shields.io/badge/SENAI-Desvendando_a_Descarbonização-CC0000?style=for-the-badge)
+![SENAI](https://img.shields.io/badge/SENAI-Por_Dentro_da_Segurança_Cibernética-CC0000?style=for-the-badge)
+![SENAI](https://img.shields.io/badge/SENAI-Ciclos_de_Retorno_para_a_Economia_Circular-CC0000?style=for-the-badge)
 
 ---
 
