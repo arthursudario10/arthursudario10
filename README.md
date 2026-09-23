@@ -60,6 +60,7 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursudario10&show_icons=true&theme=tokyonight)
 
+</div>
 
 ## 🎯 Objetivos
 - 💻 Evoluir na área de Desenvolvimento de Sistemas  
