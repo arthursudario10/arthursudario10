@@ -3,8 +3,7 @@
 
 🎓 Estudante do 2º ano do Ensino Médio  
 💻 Desenvolvimento de Sistemas - SENAI-SP  
-📊 Foco em Dados & Tecnologia  
-🚀 Em constante evolução  
+📊 Foco em Dados & Tecnologia 
 
 ---
 
@@ -61,17 +60,6 @@ Gosto de aprender na prática, conhecer novos lugares e sempre me manter atualiz
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursudario10&show_icons=true&theme=tokyonight)
 
-</div>
-
----
-
-## 📚 Atualmente estudando
-- 📊 Fundamentos de Dados  
-- 💻 JavaScript  
-- 🐧 Linux  
-- 🌐 Redes (Cisco)  
-
----
 
 ## 🎯 Objetivos
 - 💻 Evoluir na área de Desenvolvimento de Sistemas  
